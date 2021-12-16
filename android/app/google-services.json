@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "821728586220",
+    "firebase_url": "https://congnghe-taxi-camau-834db-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "congnghe-taxi-camau-834db",
+    "storage_bucket": "congnghe-taxi-camau-834db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821728586220:android:0a6ea4d5469dced9fdb8c9",
+        "android_client_info": {
+          "package_name": "com.taxicamau.reidersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821728586220-i5j1opmr7dasq9elsalko3bt1l78bspl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAms2bL5rKEOjZRRiSPyIzUIJbjA7TndEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821728586220-i5j1opmr7dasq9elsalko3bt1l78bspl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
